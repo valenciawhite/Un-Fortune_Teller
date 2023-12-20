@@ -29,4 +29,4 @@ Welcome to the Un-Fortune Teller Application, where all advice given is question
 
 
 
-For more information and updates, check the [Release Notes]().
+For more information and updates, check the [Release Notes](https://github.com/valenciawhite/Un-Fortune_Teller/blob/main/RELEASES.md).
