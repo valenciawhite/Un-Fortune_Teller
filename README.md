@@ -11,9 +11,7 @@ Welcome to the Un-Fortune Teller Application, where all advice given is question
 
 1. Have Ruby installed on your system. 
 2. Download the following Ruby gems:
-
-    1. HTTParty
-        $ gem install httparty
+    A. HTTParty | $ gem install httparty
 
 ## Download
 
