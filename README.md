@@ -20,7 +20,7 @@ Welcome to the Un-Fortune Teller Application, where all advice given is question
 
 1. Download the executable.
 
-2. Run the executable on your computer - $ ruby unfortune_teller.rb
+2. Run the executable on your computer from the directory you downloaded the file to - $ ruby unfortune_teller.rb
 
 3. Enter your birthdate when prompted.
 
