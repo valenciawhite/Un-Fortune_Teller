@@ -9,7 +9,7 @@ Welcome to the Un-Fortune Teller Application, where all advice given is question
 
 ## Prerequisites
 
-1. Have Ruby installed on your system. 
+1. Ruby installed on your system. 
 2. Download the following Ruby gems - HTTParty | $ gem install httparty
 
 ## Download
