@@ -8,4 +8,4 @@ Welcome to the Un-Fortune Teller Application's release notes!
 None to date.
 
 ## Known Bugs 
-1. Fortune still read after invalid date given. 
+1. Fortune still reads after invalid date given. (Work in Progress)
