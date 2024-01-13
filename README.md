@@ -6,7 +6,9 @@ If you have different versions or updates, consider adding release notes to info
 # Un-Fortune Teller Application
 
 Welcome to the Un-Fortune Teller Application, where all advice given is questionable in nature! Download the executable below to get your personalized fortune.
-
+---
+![video demonstration]()
+---
 ## Prerequisites
 
 1. Ruby installed on your system. 
