@@ -1,3 +1,3 @@
-require_relative 'zodiac'
-require_relative 'fortune'
+require_relative 'zodiac_cal'
+require_relative 'unfortune_api'
 
