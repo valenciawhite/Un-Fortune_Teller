@@ -7,7 +7,7 @@ If you have different versions or updates, consider adding release notes to info
 
 Welcome to the Un-Fortune Teller Application, where all advice given is questionable in nature! Download the executable below to get your personalized fortune.
 ---
-![video demonstration]()
+![video demonstration](https://github.com/valenciawhite/Un-Fortune_Teller/blob/main/Assets/portfolio-assets/demo.gif)
 ---
 ## Prerequisites
 
